@@ -1,0 +1,26 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is the Git and Node basic learning project",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chieuddfx13460/git-test.git",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chieuddfx13460/git-test/issues"
+  },
+  "bin": {
+    "lite-server": "./bin/lite-server"
+  },
+  "homepage": "https://github.com/chieuddfx13460/git-test#readme"
+}
